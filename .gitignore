@@ -134,3 +134,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore virtual environment folder
+venv/
